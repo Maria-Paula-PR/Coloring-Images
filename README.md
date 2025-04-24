@@ -6,7 +6,7 @@ This project implements a **Generative Adversarial Network (GAN)** for automatic
 
 You can try the model live using the interactive interface below:
 
-➡️ **[Launch on Hugging Face Spaces](#https://huggingface.co/spaces/maripau22/coloring)**  
+➡️ **[Launch on Hugging Face Spaces](https://huggingface.co/spaces/maripau22/coloring)**  
 
 
 ## 🧠 About the Model
@@ -34,5 +34,6 @@ These notebooks walk through the loading of the model, preprocessing steps, infe
 
 You can see more specifications about this model in the following report:
 
-➡️ **[Weight and Biases Report ](#https://api.wandb.ai/links/perezromomariapaula-iteso/ptlt6ih8 )**  
+➡️ **[Weight and Biases Report ](https://api.wandb.ai/links/perezromomariapaula-iteso/ptlt6ih8 )**  
 
+Made with ❤️ by Maria Paula
